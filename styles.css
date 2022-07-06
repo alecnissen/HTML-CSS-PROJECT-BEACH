@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(68, 15, 68);
+    background-image: url(cali-beach.jpg);
+    background-size: 100%;
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(82, 19, 82)
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    color: rgb(58, 27, 58);
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(80, 26, 80);
+}
